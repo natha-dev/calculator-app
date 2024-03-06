@@ -1,6 +1,8 @@
 class calculator
 {
 	static void main(string[] args){
+		Console.WriteLine("Hasil Pengurangan {0} - {1} = {2}", a, b, pengurangan(a, b));
+		Console.WriteLine("Hasil Pengurangan {0} - {1} = {2}", a, b, pengurangan(a, b));
 		
 	}
 	
